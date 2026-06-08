@@ -16,6 +16,14 @@ Desenvolvo **produtos baseados em Inteligência Artificial**, **automações int
 - 🗺️ **Sistemas de Geolocalização** – Implementação de lógicas operacionais e logísticas baseadas em APIs de mapas para roteirização e delimitação de perímetros de atendimento.
 
 ---
+## **Formação e Desenvolvimento Tecnológico**
+
+*   **Desenvolvedor de Software Autodidata** | Foco em Arquitetura SaaS e IA
+    *   *Histórico de aprendizado prático focado em desenvolvimento de sistemas multi-tenant, integração de APIs de pagamento e automações inteligentes.*
+*   **Formação em Integração Avançada de APIs, Webhooks e Gateways** – Plataformas de Ensino Online (Udemy / YouTube Técnico)
+*   **Especialização Prática em Engenharia de Prompt e Aplicações de IA** – Documentação Oficial OpenAI / DeepLearning.AI
+*   **Trilha de Aprendizado em Banco de Dados (MySQL/PostgreSQL) e Docker** – Comunidades Open Source e Cursos Livres
+
 
 ## 🛠️ Tecnologias & Ecossistema
 
