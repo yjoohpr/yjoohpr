@@ -27,14 +27,15 @@ Desenvolvo **produtos baseados em Inteligência Artificial**, **automações int
 
 ## 🛠️ Tecnologias & Ecossistema
 
+
 ### Backend & Linguagens Base
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+`JavaScript` `TypeScript` `Node.js` `.NET` `C#`
 
 ### IA, Integrações & Gateways
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+`OpenAI API` `WhatsApp API` `Stripe Gateway`
 
 ### Banco de Dados & Infraestrutura
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+`MySQL` `PostgreSQL` `Docker` `Git`
 
 ---
 
