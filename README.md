@@ -28,22 +28,13 @@ Desenvolvo **produtos baseados em Inteligência Artificial**, **automações int
 ## 🛠️ Tecnologias & Ecossistema
 
 ### Backend & Linguagens Base
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Node.js](https://shields.io)
-![.NET](https://shields.io)
-![C#](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ### IA, Integrações & Gateways
-![OpenAI](https://shields.io)
-![WhatsApp API](https://shields.io)
-![Stripe](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ### Banco de Dados & Infraestrutura
-![MySQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Docker](https://shields.io)
-![Git](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
